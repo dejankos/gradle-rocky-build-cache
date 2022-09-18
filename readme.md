@@ -1,5 +1,7 @@
 ## Remote build cache for Rocky storage
 
+[![Build Gradle Rocky build cache](https://github.com/dejankos/gradle-rocky-build-cache/actions/workflows/build-gradle.yml/badge.svg)](https://github.com/dejankos/gradle-rocky-build-cache/actions/workflows/build-gradle.yml)
+
 Remote build cache for [Rocky storage](https://github.com/dejankos/Rocky)
 
 ### Usage
